@@ -14,8 +14,8 @@ Projet de 2ème année — Année universitaire 2025/2026
 
 La communication officielle autour du COVID-19 s'est largement appuyée sur des indicateurs
 *moyens* (taux de mortalité national, létalité globale...). Or, ce sont précisément les
-territoires en **queue de distribution** — ceux où la mortalité dépasse très largement la
-moyenne — qui concentrent l'essentiel du risque sanitaire et des besoins d'intervention.
+territoires en **queue de distribution**, ceux où la mortalité dépasse très largement la
+moyenne, qui concentrent l'essentiel du risque sanitaire et des besoins d'intervention.
 
 Ce projet propose une analyse de la mortalité COVID-19 au niveau des comtés américains
 **au-delà des moyennes**, en s'appuyant sur la **Théorie des Valeurs Extrêmes (EVT)** pour
