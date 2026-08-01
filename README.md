@@ -1,4 +1,4 @@
-# 🧭 EVT-CART COVID-19 — Modélisation Spatiale des Extrêmes de Mortalité aux États-Unis
+#  EVT-CART COVID-19 — Modélisation Spatiale des Extrêmes de Mortalité aux États-Unis
 
 ![R](https://img.shields.io/badge/R-4.x-276DC3?logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-WebApp-0091C8?logo=rstudio&logoColor=white)
@@ -10,7 +10,7 @@ Projet de 2ème année — Année universitaire 2025/2026
 
 ---
 
-## 📌 Résumé du projet
+##  Résumé du projet
 
 La communication officielle autour du COVID-19 s'est largement appuyée sur des indicateurs
 *moyens* (taux de mortalité national, létalité globale...). Or, ce sont précisément les
@@ -22,7 +22,7 @@ Ce projet propose une analyse de la mortalité COVID-19 au niveau des comtés am
 caractériser statistiquement les événements les plus sévères, et sur un modèle hybride
 **EVT-CART** pour expliquer l'hétérogénéité spatiale et démographique de ce risque extrême.
 
-## 🔬 Aperçu méthodologique
+##  Aperçu méthodologique
 
 ### 1. Théorie des Valeurs Extrêmes — approche PoT & GPD
 
@@ -64,7 +64,7 @@ complétés par **krigeage ordinaire** (package `gstat`) des paramètres `ξ` et
 l'arbre, avec ajustement d'un variogramme sphérique en projection Albers Equal Area, afin
 d'obtenir une carte de risque continue sur l'ensemble du territoire continental.
 
-## 🖥️ Aperçu de la WebApp Shiny
+##  Aperçu de la WebApp Shiny
 
 L'application interactive ([app/app.R](app/app.R)) permet d'explorer dynamiquement les
 résultats du modèle EVT-CART pour plusieurs valeurs du seuil `u` (180 à 230 décès/100k),
@@ -84,7 +84,7 @@ La carte utilise `leafletProxy` pour ne redessiner que les polygones lors d'un c
 seuil `u`, sans recharger le fond de carte — la navigation reste fluide même sur de grands
 volumes de comtés.
 
-## 📁 Structure du dépôt
+##  Structure du dépôt
 
 ```
 evt-cart-covid19-usa/
