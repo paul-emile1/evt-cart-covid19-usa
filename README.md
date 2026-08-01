@@ -140,4 +140,4 @@ Rscript R/03_tree_vis.R        # rendu graphique coloré de l'arbre
 ## 👥 Auteurs
 
 Projet réalisé par **Eliott Delhaye**, **Chloé Spittael**, **Camille Viénot** et
-**Paul-Émile Marcus**, élèves de 2ème année à l'École des Nationale des Ponts et chaussées, département IMI.
+**Paul-Emile Marcus**, élèves de 2ème année à l'École des Nationale des Ponts et chaussées, département IMI.
