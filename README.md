@@ -5,7 +5,7 @@
 ![Statut](https://img.shields.io/badge/statut-projet%20termin%C3%A9-brightgreen)
 ![Licence](https://img.shields.io/badge/licence-usage%20acad%C3%A9mique-lightgrey)
 
-**École des Ponts ParisTech — Département IMI (Ingénierie Mathématique et Informatique)**
+**École des Nationale des Ponts et chaussées — Département IMI (Ingénierie Mathématique et Informatique)**
 Projet de 2ème année — Année universitaire 2025/2026
 
 ---
@@ -140,4 +140,4 @@ Rscript R/03_tree_vis.R        # rendu graphique coloré de l'arbre
 ## 👥 Auteurs
 
 Projet réalisé par **Eliott Delhaye**, **Chloé Spittael**, **Camille Viénot** et
-**Paul-Émile Marcus**, élèves de 2ème année à l'École des Ponts ParisTech, département IMI.
+**Paul-Émile Marcus**, élèves de 2ème année à l'École des Nationale des Ponts et chaussées, département IMI.
